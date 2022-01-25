@@ -19,3 +19,6 @@ choose the most evident features
 data types
 6 Model is selected based on a grid search with defferent estimator,
 7 temporialy Lasso give the best performance, r2_scroe is 0.91
+
+
+# second stage it mainly focused on outlier detection,with other steps maintained
